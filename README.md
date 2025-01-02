@@ -42,6 +42,10 @@ Start the Frontend Server:  Navigate to the frontend directory.
 Run npm run dev. The frontend will be available at http://localhost:3000.
 Open http://localhost:3000 in your browser to view the application.
 
+# Live Deployment Links
+Frontend Deployment: Live Frontend on Vercel
+Backend Deployment: Live Backend on Render/Heroku
+
 
 
 
