@@ -59,7 +59,7 @@ Open http://localhost:3000 in your browser to view the application.
 
 # Live Deployment Links
 
-Frontend Deployment: 
+Frontend Deployment: https://vcomply-frontend.vercel.app/
 
 Backend Deployment:https://vcomply-backend.onrender.com
 
